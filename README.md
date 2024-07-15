@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning JavaScript and working on backend  development in Spring Boot framework<br>I’m looking to collaborate on any Java-related topics or API development projects. I enjoy working on backend systems and creating robust, efficient APIs.<br>Ask me about Spring Boot, Java development, or creating APIs.
+I’m currently learning JavaScript and working on backend development with Spring Boot framework<br>I’m looking to collaborate on any Java-related topics or API development projects. I enjoy working on backend systems and creating robust, efficient APIs.<br>Ask me about Spring Boot, Java development, or creating APIs.
 
 
 ## 🌐 Socials:
